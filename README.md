@@ -1,6 +1,7 @@
 # Moodflix
 I've created MoodFlix - an interactive mood-based recommendation engine! Here's what makes it special:
-🎨 Creative Features:
+
+* Creative Features:
 
 > Mood Categories - From "Happy & Energetic" to "Anxious & Stressed", each with unique colors and icons
 > Duration Options - Quick Break (20-40 min), Evening Watch (1-2 hours), or Binge Session (3+ hours)
